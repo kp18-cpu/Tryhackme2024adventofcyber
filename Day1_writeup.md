@@ -1,6 +1,8 @@
 # Day 1 #
 ## Getting a Mp3 converter tasks which usually has lot of vulnerabilities like advare and phishing campaigns for claiming exciting offers (fake world). 
 
+Learn about OPSSEC in this page, leaving behind the traces which we try to catch up using the forensics.
+
 1. Try to convert a youtube file. It downloads a zip file.
 2. Extract a zip file, two different files name with same .mp3 extension. Song.mp3 is legit but somg.mp3 is odd.
 3. Let's analyse with exiftool in kali for knowing the metadata of the file for understanding the backend.
